@@ -7,4 +7,5 @@ import javax.xml.bind.SchemaOutputResolver;
 public class a {
     int a=0;
     int b=10;
+    int c=10;
 }
