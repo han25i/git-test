@@ -6,4 +6,6 @@ import javax.xml.bind.SchemaOutputResolver;
  */
 public class a {
     int a=0;
+    int f=10;
+
 }
